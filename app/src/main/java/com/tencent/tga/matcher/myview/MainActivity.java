@@ -13,7 +13,7 @@ import com.tencent.tga.matcher.myview.ninelock.TestNineLockActivity;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
-    private String TAG = "MainActivity";
+    private String TAG = "MainActivity1";
     private Button btn_set_secret;
     private Button btn_test_secret;
 
